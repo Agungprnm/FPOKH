@@ -1,0 +1,8 @@
+data small2.csv,algoritma genetik
+no percobaan,solusi awal,solusi ahir,rute terbaik,waktu
+1,387,387.0,3 -> 5 -> 2 -> 1 -> 4 -> 3 ,101
+2,387,387.0,3 -> 4 -> 1 -> 2 -> 5 -> 3 ,88
+3,387,387.0,2 -> 5 -> 3 -> 4 -> 1 -> 2 ,89
+4,387,387.0,1 -> 4 -> 3 -> 5 -> 2 -> 1 ,88
+5,387,387.0,2 -> 1 -> 4 -> 3 -> 5 -> 2 ,83
+Rata-rata :,387.0,Solusi Terbaik :,387.0,Solusi Terburuk :,387.0

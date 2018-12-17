@@ -1,0 +1,8 @@
+data small2.csv,algoritma ant colony,,,,
+no percobaan,solusi awal,solusi ahir,rute terbaik,waktu,
+1,387,387,3 -> 5 -> 2 -> 1 -> 4 -> 3,101,
+2,387,387,2 -> 1 -> 4 -> 3 -> 5 -> 2,101,
+3,387,387,1 -> 4 -> 3 -> 5 -> 2 -> 1,101,
+4,387,387,2 -> 1 -> 4 -> 3 -> 5 -> 2,101,
+5,387,387,2 -> 1 -> 4 -> 3 -> 5 -> 2,101,
+Rata-rata :,387,Solusi Terbaik :,387,Solusi Terburuk :,387
